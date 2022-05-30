@@ -1,12 +1,5 @@
-## Hi there 👋
+# minimal.click
 
-<!--
+Created to explore code, tools, products and services using sustainable and ethical business practices through the utilisation of open source tools and methodologies.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+This means that minimal.click is my small creative studio that concentrates on creating minimal music, art, games and writing using open source and foss technologies with the plan that this will be able to offset my cost of living and I can be a production house of one.
